@@ -10,3 +10,4 @@
 9 ---> Delete the directory my_first_directory that is in the /tmp directory.
 10 ---> Script changes the working directory to the previous one.
 11 ---> Script that lists all files in current directory and the parent of the working directory and the /boot directory.
+12 ---> script that prints the type of the file named iamafile.
