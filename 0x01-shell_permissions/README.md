@@ -14,4 +14,5 @@
 13 ---> Script that changes the group owner to school for the file hello.
 100 ---> Script that changes the owner to vincent and the group owner to staff for all the files and directories in the working directory.
 101 ---> Script that changes the owner and the group owner of _hello to vincent and staff respectively.
+102 ---> Script that changes the owner of the file hello to betty only if it is owned by the user guillaume.
 
