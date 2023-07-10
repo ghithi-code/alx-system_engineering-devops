@@ -23,4 +23,5 @@
 22 ---> script that displays all users and their home directories, sorted by users.
 100 ---> script finds all empty files and directories in the current directory and all sub-directories.
 101 --->  script that lists all the files with a .gif extension in the current directory and all its sub-directories.
+102 ---> script that decodes acrostics that use the first letter of each line.
 
