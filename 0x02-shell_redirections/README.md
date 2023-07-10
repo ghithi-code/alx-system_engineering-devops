@@ -21,4 +21,5 @@
 20 ---> script that removes all letters c and C from input.
 21 ---> script that reverse its input.
 22 ---> script that displays all users and their home directories, sorted by users.
+100 ---> script finds all empty files and directories in the current directory and all sub-directories.
 
